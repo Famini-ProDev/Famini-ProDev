@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 </p>
 
 ### My Experiences 🙌
-- [Front-End Developer | Software Engineer | UI Developer (Chargoon)](https://www.chargoon.com/) - (Feb 2020-Present) : <br/>
+- [Front-End Developer | Software Engineer | UI Developer (Chargoon)](https://www.chargoon.com/) - (Feb 2020-Present) <br/>
     - mprove the code quality of some projects and solve important problems according to customer needs <br/>
     - Ensured the technology implemented promoted efficiency, speed, and smooth functionality <br/>
     - Increased website performance, updated and implemented optimized layouts that met usability and performance requirements <br/>
@@ -39,12 +39,12 @@ Here are some ideas to get you started:
     - Work towards resolving the complex challenges of using modern web application development processes and standardized
       methodologies <br/> 
       
-- [Front-End Developer | JavaScript Developer | UI Developer (Simorgh34000(HR))](https://simorgh34000.com/) - (Jul 2018-Jan 2020 ) :<br/>
+- [Front-End Developer | JavaScript Developer | UI Developer (Simorgh34000(HR))](https://simorgh34000.com/) - (Jul 2018-Jan 2020 ) <br/>
     - Worked with teams to solve issues and find and implement efficiencies <br/>
     - Reviewed and tested customer-facing prototypes before deployment and applied <br/>
     - Reviewed code to validate structures and refactored the old-technology designs using modern tools for maintainability <br/>
     
-### Tech Stack ⚡
+### Tech Skills ⚡
 ``` React JS / React hooks``` ```Redux & Context API``` ``` Next Js```  ```Git /GitHub/ CICD / DevOps```  ``` Scrum``` 
  ```Html``` ``` Css/ Tailwind Css / BootStrap / Sass & Less```  ```  Material UI / Ant Design ``` ```Webpack & Babel``` ``` Rest Api /Axios/ SWR ```
 
