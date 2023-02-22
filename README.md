@@ -44,10 +44,10 @@ Here are some ideas to get you started:
     - Reviewed and tested customer-facing prototypes before deployment and applied <br/>
     - Reviewed code to validate structures and refactored the old-technology designs using modern tools for maintainability <br/>
     
-### Tech Stack ⚡ 
+### Tech Stack ⚡
+``` React JS / React hooks``` ```Redux & Context API``` ``` Next Js```  ```Git /GitHub/ CICD / DevOps```  ``` Scrum``` 
  ```Html``` ``` Css/ Tailwind Css / BootStrap / Sass & Less```  ```  Material UI / Ant Design ``` ```Webpack & Babel``` ``` Rest Api /Axios/ SWR ```
-``` Next Js```  ```Git /GitHub/ CICD / DevOps``` ``` JavaScript / ES6 / TypeScript``` ``` Scrum``` ``` React JS / React hooks```
-```Redux & Context API```
+
 <br />
 
 ![Famini-ProDev Language stats](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Famini-ProDev&layout=compact&langs_count=8&hide_border=true)
