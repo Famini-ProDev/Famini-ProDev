@@ -45,7 +45,7 @@ Here are some ideas to get you started:
     - Reviewed code to validate structures and refactored the old-technology designs using modern tools for maintainability <br/>
     
 ### Tech Skills ⚡
-``` React JS / React hooks``` ```Redux & Context API``` ``` Next Js```  ```Git /GitHub/ CICD / DevOps```  ``` Scrum``` 
+``` ReactJS / React hooks``` ```Redux & Context API``` ``` NextJs```  ```Git /GitHub/ CICD / DevOps```  ``` Scrum``` 
  ```Html``` ``` Css/ Tailwind Css / BootStrap / Sass & Less```  ```  Material UI / Ant Design ``` ```Webpack & Babel``` ``` Rest Api /Axios/ SWR ```
 
 <br />
