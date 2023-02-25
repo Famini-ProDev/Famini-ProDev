@@ -44,7 +44,7 @@ Here are some ideas to get you started:
     - Reviewed and tested customer-facing prototypes before deployment and applied <br/>
     - Reviewed code to validate structures and refactored the old-technology designs using modern tools for maintainability <br/>
     
-### Tech Skills ⚡
+### Tech Skills 🛠
 ``` ReactJS / React hooks``` ```Redux & Context API``` ``` NextJs```  ```Git /GitHub/ CICD / DevOps```  ``` Scrum``` 
  ```Html``` ``` Css/ Tailwind Css / BootStrap / Sass & Less```  ```  Material UI / Ant Design ``` ```Webpack & Babel``` ``` Rest Api /Axios/ SWR ```
 
