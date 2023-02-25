@@ -32,7 +32,6 @@ Here are some ideas to get you started:
 
 ### My Experiences 🙌
 - [Front-End Developer | Software Engineer | UI Developer (Chargoon)](https://www.chargoon.com/) - (Feb 2020-Present) <br/>
-      
 - [Front-End Developer | JavaScript Developer | UI Developer (Simorgh34000(HR))](https://simorgh34000.com/) - (Jul 2018-Jan 2020 ) <br/>
     
 ### Tech Skills 🛠
