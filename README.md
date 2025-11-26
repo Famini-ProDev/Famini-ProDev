@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 </p>
 
 ### My Experiences 🙌
-- [Full-Stack Developer | Software Engineer (Freelance)] - (Nov 2022 – Present) <br/>
+- Full-Stack Developer | Software Engineer (Freelance) - (Nov 2022 – Present) <br/>
 - [Front-End Developer | Software Engineer | UI Developer (Chargoon)](https://www.chargoon.com/) - (June 2021 – Present) <br/>
 - [Front-End Developer | JavaScript Developer | UI Developer (Simorgh34000(HR))](https://simorgh34000.com/) - (July 2018 - January 2020) <br/>
     
