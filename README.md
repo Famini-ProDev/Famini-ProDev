@@ -31,12 +31,12 @@ Here are some ideas to get you started:
 </p>
 
 ### My Experiences 🙌
-- [Full-Stack Developer | Software Engineer  (Freelance)] - (Nov 2022 – Present) <br/>
-- [Front-End Developer | Software Engineer | UI Developer (Chargoon)](https://www.chargoon.com/) - (June 2021 – Present) <br/>
+- [Full-Stack Developer | Software Engineer (Freelance)] - (Nov 2022 – Present) <br/>
+- [Front-End Developer | Software Engineer | UI Developer (Chargoon)] - (June 2021 – Present) <br/>
 - [Front-End Developer | JavaScript Developer | UI Developer (Simorgh34000(HR))](https://simorgh34000.com/) - (July 2018 - January 2020) <br/>
     
 ### Tech Skills 🛠
-```JavaScript / React JS / Next JS / TypeScript``` ```Redux / React-Hook-Form / Context Api``` ```Webpack / Babel```  ```CSS frameworks & Preprocessors : CSS /
+```JavaScript / React JS / Next JS / Node JS / Express JS / MogoDB / TypeScript``` ```Redux / React-Hook-Form / Context Api``` ```Webpack / Babel```  ```CSS frameworks & Preprocessors : CSS /
 Tailwind CSS / Bootstrap / Sass / Less```  ```React-Query / REST API / Axios / GraphQL``` 
  ```Version Control : Git / CICD``` ```HTML5 / Ant Design / MUI```  ```  Material UI / Ant Design ``` ```Webpack & Babel``` ``` Rest Api /Axios/ SWR ```
 
