@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 - [Front-End Developer | JavaScript Developer | UI Developer (Simorgh34000(HR))](https://simorgh34000.com/) - (July 2018 - January 2020) <br/>
     
 ### Tech Skills 🛠
-```JavaScript / React JS / Next JS / Node JS / Express JS / MogoDB / TypeScript``` ```Redux / React-Hook-Form / Context Api``` ```Webpack / Babel```  ```CSS frameworks & Preprocessors : CSS /
+```JavaScript / React JS / Next JS / Node JS / Express JS / MongoDB``` ```Mongoose / TypeScript``` ```Redux / React-Hook-Form / Context Api``` ```Webpack / Babel```  ```CSS frameworks & Preprocessors : CSS /
 Tailwind CSS / Bootstrap / Sass / Less```  ```React-Query / REST API / Axios / GraphQL``` 
  ```Version Control : Git / CICD``` ```HTML5 / Ant Design / MUI```  ```  Material UI / Ant Design ``` ```Webpack & Babel``` ``` Rest Api /Axios/ SWR ```
 
