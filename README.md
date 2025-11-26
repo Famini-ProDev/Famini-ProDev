@@ -25,14 +25,15 @@ Here are some ideas to get you started:
   
   ### About Me 🚀
   <samp>
-    🌱 I'm <a href="https://www.linkedin.com/in/aminiprodev/">Fatemeh</a> working at <a href="https://www.chargoon.com/">@Chargoon </a>and I'm a Front-End              developer</br>
+    🌱 I'm <a href="https://www.linkedin.com/in/aminiprodev/">Fatemeh</a> working at <a href="https://www.chargoon.com/">@Chargoon </a>and I'm a Full Stack              developer</br>
   👨‍💻  I am passionate about Web Dev & I enjoy learning new things. </br>
   </samp>
 </p>
 
 ### My Experiences 🙌
-- [Front-End Developer | Software Engineer | UI Developer (Chargoon)](https://www.chargoon.com/) - (Feb 2020-Present) <br/>
-- [Front-End Developer | JavaScript Developer | UI Developer (Simorgh34000(HR))](https://simorgh34000.com/) - (Jul 2018-Jan 2020 ) <br/>
+- [Full-Stack Developer | Software Engineer  (Freelance)] - (Nov 2022 – Present) <br/>
+- [Front-End Developer | Software Engineer | UI Developer (Chargoon)](https://www.chargoon.com/) - (June 2021 – Present) <br/>
+- [Front-End Developer | JavaScript Developer | UI Developer (Simorgh34000(HR))](https://simorgh34000.com/) - (July 2018 - January 2020) <br/>
     
 ### Tech Skills 🛠
 ```JavaScript / React JS / Next JS / TypeScript``` ```Redux / React-Hook-Form / Context Api``` ```Webpack / Babel```  ```CSS frameworks & Preprocessors : CSS /
